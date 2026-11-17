@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Stream Crawler
+
+**Embryo Stream Crawler** is Embryo-Zero's fork of [incubator-stormcrawler](https://github.com/apache/incubator-stormcrawler), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 [![StormCrawler](https://www.apache.org/logos/res/stormcrawler/stormcrawler.png)](https://stormcrawler.apache.org/)
 =============
 
